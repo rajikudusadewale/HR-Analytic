@@ -18,6 +18,7 @@ One of the key features of the dashboard is the Employees overview section. This
 
 **Dashboard 2: Training Overview**
 
+![Training Overview Dashboard](https://github.com/rajikudusadewale/HR-Analytic/blob/main/Training%20Overview.png)
 This dashboard provides an overview of employee training, including training type, top training programs, training cost, total trained, and training budget. Key features of this dashboard include:
 
 1. Trainees age: This section provides a breakdown of age group of employees that were trained, including <30, 30-49, and 50+. 
