@@ -6,6 +6,8 @@ HR analytics is a powerful tool that allows organizations to gain valuable insig
 The HR dashboards I designed provide a comprehensive overviews of employee and training information to help managers make informed decisions. The dashboard includes multiple charts that display key HR metrics in a clear and concise manner.
 
 **Dashboad 1 (Employees Overview)**
+
+![Employee Overview Dashboard](https://github.com/rajikudusadewale/HR-Analytic/blob/main/Employees%20Overview.png)
 One of the key features of the dashboard is the Employees overview section. This dashboard provides a comprehensive overview of employee information, including demographic data, job titles, and performance metrics. Key features of this dashboard include:
 1. Employee Demographics: This section provides a breakdown of employee demographics, including age, gender, and ethnicity. 
 
