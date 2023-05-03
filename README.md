@@ -30,7 +30,7 @@ This dashboard provides an overview of employee training, including training typ
 3. Trainees by ethnicity, Education, Age group, and gender.
 
 
-**Trends and Insights**
+**Trends and Insights:**
 
 1. Employee demographics: The data showed a diverse workforce in terms of gender and ethnicity, which is a positive trend for the organization. However, there was a need to increase diversity in age groups, as the majority of employees were in the <30 age range. 
 
