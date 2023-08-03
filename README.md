@@ -11,7 +11,7 @@ The HR dashboards I designed provide a comprehensive overviews of employee and t
 One of the key features of the dashboard is the Employees overview section. This dashboard provides a comprehensive overview of employee information, including demographic data, job titles, and performance metrics. Key features of this dashboard include:
 1. Employee Demographics: This section provides a breakdown of employee demographics, including age, gender, and ethnicity. 
 
-2. Employee Education: This section provides a breakdown of employee educations, including Bachelor Degree, Diploma, Master Degree, Certificate I & II 
+2. Employee Education: This section provides a breakdown of employee educations, including Bachelor Degree, Diploma, Master Degree, Certificate I & II,
 
 3. Job Titles: This section provides a breakdown of job titles within the organization, including the number of employees in each position, and pay type of each jobs
 
